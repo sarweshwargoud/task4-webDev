@@ -14,9 +14,13 @@ Convert a desktop-only website into a fully responsive, mobile-friendly webpage 
 
 ## 📁 Project Structure
 /book-api
+
 │── index.html
+
 │── styles.css
+
 │── script.js
+
 │── README.md
 
 yaml
